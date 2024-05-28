@@ -1,2 +1,2 @@
-# baltadataacess
-Projeto do curso de acesso a dados do curso do balta
+# Acesso a dados
+Projeto do curso de acesso a dados do balta
